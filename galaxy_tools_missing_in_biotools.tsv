@@ -852,7 +852,7 @@ DiffBind		toolshed.g2.bx.psu.edu/repos/bgruening/diffbind/diffbind/2.10.0	differ
 PEAKachu		toolshed.g2.bx.psu.edu/repos/rnateam/peakachu/peakachu/0.1.0.2	Calls Peaks in CLIP data	peakachu	Peak Calling
 zerone		toolshed.g2.bx.psu.edu/repos/iuc/zerone/zerone/1.0		zerone	Peak Calling
 PureCLIP		toolshed.g2.bx.psu.edu/repos/iuc/pureclip/pureclip/1.0.4	- HMM based peak caller designed for eCLIP/iCLIP data	pureclip	Peak Calling
-JAMM	testtoolshed.g2.bx.psu.edu/repos/messersc/jamm/jamm/1.0.7	Calls peaks on NGS data	jamm	Peak Calling
+JAMM		testtoolshed.g2.bx.psu.edu/repos/messersc/jamm/jamm/1.0.7	Calls peaks on NGS data	jamm	Peak Calling
 Piranha		toolshed.g2.bx.psu.edu/repos/rnateam/piranha/piranha/0.1.0	peak-caller for CLIP- and RIP-Seq data	piranha	Peak Calling
 bwameth		toolshed.g2.bx.psu.edu/repos/iuc/bwameth/bwameth/0.2.3+galaxy0	Fast and accurate aligner of BS-Seq reads.	bwameth	Epigenetics
 MethylDackel		toolshed.g2.bx.psu.edu/repos/bgruening/pileometh/pileometh/0.5.2+galaxy0	A tool for processing bisulfite sequencing alignments	pileometh	Epigenetics
