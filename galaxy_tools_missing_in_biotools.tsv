@@ -1,4 +1,4 @@
-name	bio.tools_id	id	description	tool_shed_repository	panel_section_name	edam_topics	edam_operations		
+name	bio.tools_id	id	description	tool_shed_repository	panel_section_name	edam_topics	edam_operations
 NCBI Datasets Genomes		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_datasets/datasets_download_genome/13.4.0	download genome sequence, annotation and metadata	ncbi_datasets	Get Data		
 NCBI Accession Download		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_acc_download/ncbi_acc_download/0.2.7+galaxy0	Download sequences from GenBank/RefSeq by accession through the NCBI ENTREZ API	ncbi_acc_download	Get Data		
 UniProt		toolshed.g2.bx.psu.edu/repos/galaxyp/uniprotxml_downloader/uniprotxml_downloader/2.2.0	download proteome as XML or fasta	uniprotxml_downloader	Get Data		
