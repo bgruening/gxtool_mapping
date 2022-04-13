@@ -1806,7 +1806,7 @@ IDDecoyProbability		toolshed.g2.bx.psu.edu/repos/galaxyp/openms_iddecoyprobabili
 RNPxl		toolshed.g2.bx.psu.edu/repos/galaxyp/openms_rnpxl/RNPxl/2.3.0	Tool for RNP cross linking experiment analysis.	openms_rnpxl	Proteomics		
 AdditiveSeries		toolshed.g2.bx.psu.edu/repos/galaxyp/openms_additiveseries/AdditiveSeries/2.3.0	Computes an additive series to quantify a peptide in a set of samples.	openms_additiveseries	Proteomics		
 TopPerc		toolshed.g2.bx.psu.edu/repos/galaxyp/openms_topperc/TopPerc/2.2.0.1	Facilitate input to Percolator and reintegrate.	openms_topperc	Proteomics		
-Protease prediction	testtoolshed.g2.bx.psu.edu/repos/bgruening/protease_prediction/eden_protease_prediction/0.9	based on cleavage sites	protease_prediction	Proteomics		
+Protease prediction		testtoolshed.g2.bx.psu.edu/repos/bgruening/protease_prediction/eden_protease_prediction/0.9	based on cleavage sites	protease_prediction	Proteomics		
 Create Decoy Database (reverse)		toolshed.g2.bx.psu.edu/repos/galaxyp/decoyfasta/decoyfasta/0.2.0	Creates a decoy search database by adding reverse    sequences to an existing database	decoyfasta	Proteomics		
 Morpheus		toolshed.g2.bx.psu.edu/repos/galaxyp/morpheus/morpheus/2.255.0	database search algorithm for high-resolution tandem mass spectra	morpheus	Proteomics		
 metaMS.runGC		toolshed.g2.bx.psu.edu/repos/yguitton/metams_rungc/metams_runGC/3.0.0+metaMS1.24.0-galaxy0	GC-MS data preprocessing using metaMS package	metams_rungc	Metabolomics		
