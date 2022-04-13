@@ -1,10 +1,10 @@
-name	bio.tools_id	id	description	tool_shed_repository	panel_section_name	edam_topics	edam_operations
+name	bio.tools_id	id	description	tool_shed_repository	panel_section_name	edam_topics	edam_operations		
 NCBI Datasets Genomes		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_datasets/datasets_download_genome/13.4.0	download genome sequence, annotation and metadata	ncbi_datasets	Get Data		
 NCBI Accession Download		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_acc_download/ncbi_acc_download/0.2.7+galaxy0	Download sequences from GenBank/RefSeq by accession through the NCBI ENTREZ API	ncbi_acc_download	Get Data		
 UniProt		toolshed.g2.bx.psu.edu/repos/galaxyp/uniprotxml_downloader/uniprotxml_downloader/2.2.0	download proteome as XML or fasta	uniprotxml_downloader	Get Data		
 Unipept		toolshed.g2.bx.psu.edu/repos/galaxyp/unipept/unipept/4.5.0	retrieve taxonomy for peptides	unipept	Get Data		
 IEDB		toolshed.g2.bx.psu.edu/repos/iuc/iedb_api/iedb_api/2.15.2	MHC Binding prediction	iedb_api	Get Data		
-Download and Extract Reads in BAM		toolshed.g2.bx.psu.edu/repos/iuc/sra_tools/sam_dump/2.11.0+galaxy0	format from NCBI SRA	sra_tools	Get Data		
+Download and Extract Reads in BAM		toolshed.g2.bx.psu.edu/repos/iuc/sra_tools/sam_dump/2.11.0+galaxy0	format from NCBI SRA	sra_tools	Get Data
 Protein Database Downloader		toolshed.g2.bx.psu.edu/repos/galaxyp/dbbuilder/dbbuilder/0.3.2		dbbuilder	Get Data		
 Download and Generate Pileup Format		toolshed.g2.bx.psu.edu/repos/iuc/sra_tools/sra_pileup/2.10.3	from NCBI SRA	sra_tools	Get Data		
 Get species occurrences data		toolshed.g2.bx.psu.edu/repos/ecology/spocc_occ/spocc_occ/0.9.0	from GBIF, ALA, iNAT and others	spocc_occ	Animal Detection on Acoustic Recordings		
@@ -852,7 +852,7 @@ DiffBind		toolshed.g2.bx.psu.edu/repos/bgruening/diffbind/diffbind/2.10.0	differ
 PEAKachu		toolshed.g2.bx.psu.edu/repos/rnateam/peakachu/peakachu/0.1.0.2	Calls Peaks in CLIP data	peakachu	Peak Calling		
 zerone		toolshed.g2.bx.psu.edu/repos/iuc/zerone/zerone/1.0		zerone	Peak Calling		
 PureCLIP		toolshed.g2.bx.psu.edu/repos/iuc/pureclip/pureclip/1.0.4	- HMM based peak caller designed for eCLIP/iCLIP data	pureclip	Peak Calling		
-JAMM	testtoolshed.g2.bx.psu.edu/repos/messersc/jamm/jamm/1.0.7	Calls peaks on NGS data	jamm	Peak Calling		
+JAMM		testtoolshed.g2.bx.psu.edu/repos/messersc/jamm/jamm/1.0.7	Calls peaks on NGS data	jamm	Peak Calling		
 Piranha		toolshed.g2.bx.psu.edu/repos/rnateam/piranha/piranha/0.1.0	peak-caller for CLIP- and RIP-Seq data	piranha	Peak Calling		
 bwameth		toolshed.g2.bx.psu.edu/repos/iuc/bwameth/bwameth/0.2.3+galaxy0	Fast and accurate aligner of BS-Seq reads.	bwameth	Epigenetics		
 MethylDackel		toolshed.g2.bx.psu.edu/repos/bgruening/pileometh/pileometh/0.5.2+galaxy0	A tool for processing bisulfite sequencing alignments	pileometh	Epigenetics		
