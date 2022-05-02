@@ -8,14 +8,14 @@ Download and Extract Reads in BAM		toolshed.g2.bx.psu.edu/repos/iuc/sra_tools/sa
 Protein Database Downloader		toolshed.g2.bx.psu.edu/repos/galaxyp/dbbuilder/dbbuilder/0.3.2		dbbuilder	Get Data		
 Download and Generate Pileup Format		toolshed.g2.bx.psu.edu/repos/iuc/sra_tools/sra_pileup/2.10.3	from NCBI SRA	sra_tools	Get Data		
 Get species occurrences data		toolshed.g2.bx.psu.edu/repos/ecology/spocc_occ/spocc_occ/0.9.0	from GBIF, ALA, iNAT and others	spocc_occ	Animal Detection on Acoustic Recordings		
-NCBI ESearch		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_esearch/ncbi_eutils_esearch/1.2	search NCBI Databases by text query	ncbi_eutils_esearch	Get Data		
-NCBI EGQuery		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_egquery/ncbi_eutils_egquery/1.2	Provides the number of records retrieved in all Entrez databases by a single text query.	ncbi_eutils_egquery	Get Data		
-NCBI ECitMatch		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_ecitmatch/ncbi_eutils_ecitmatch/1.2	search NCBI for citations in PubMed	ncbi_eutils_ecitmatch	Get Data		
-NCBI EPost		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_epost/ncbi_eutils_epost/1.2	post UIDs to NCBI History Server	ncbi_eutils_epost	Get Data		
-NCBI ELink		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_elink/ncbi_eutils_elink/1.2	link UIDs from one database to another	ncbi_eutils_elink	Get Data		
-NCBI EInfo		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_einfo/ncbi_eutils_einfo/1.2	fetch NCBI database metadata	ncbi_eutils_einfo	Get Data		
-NCBI ESummary		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_esummary/ncbi_eutils_esummary/1.2	fetch summary of history/ids	ncbi_eutils_esummary	Get Data		
-NCBI EFetch		toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_efetch/ncbi_eutils_efetch/1.2	fetch records from NCBI	ncbi_eutils_efetch	Get Data		
+NCBI ESearch	ncbi_resources	toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_esearch/ncbi_eutils_esearch/1.2	search NCBI Databases by text query	ncbi_eutils_esearch	Get Data		
+NCBI EGQuery	ncbi_resources	toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_egquery/ncbi_eutils_egquery/1.2	Provides the number of records retrieved in all Entrez databases by a single text query.	ncbi_eutils_egquery	Get Data		
+NCBI ECitMatch	ncbi_resources	toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_ecitmatch/ncbi_eutils_ecitmatch/1.2	search NCBI for citations in PubMed	ncbi_eutils_ecitmatch	Get Data		
+NCBI EPost	ncbi_resources	toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_epost/ncbi_eutils_epost/1.2	post UIDs to NCBI History Server	ncbi_eutils_epost	Get Data		
+NCBI ELink	ncbi_resources	toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_elink/ncbi_eutils_elink/1.2	link UIDs from one database to another	ncbi_eutils_elink	Get Data		
+NCBI EInfo	ncbi_resources	toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_einfo/ncbi_eutils_einfo/1.2	fetch NCBI database metadata	ncbi_eutils_einfo	Get Data		
+NCBI ESummary	ncbi_resources	toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_esummary/ncbi_eutils_esummary/1.2	fetch summary of history/ids	ncbi_eutils_esummary	Get Data		
+NCBI EFetch	ncbi_resources	toolshed.g2.bx.psu.edu/repos/iuc/ncbi_eutils_efetch/ncbi_eutils_efetch/1.2	fetch records from NCBI	ncbi_eutils_efetch	Get Data		
 UniProt		toolshed.g2.bx.psu.edu/repos/bgruening/uniprot_rest_interface/uniprot/0.2	ID mapping and retrieval	uniprot_rest_interface	Get Data		
 Get sequences by Ensembl ID		toolshed.g2.bx.psu.edu/repos/earlhaminst/ensembl_get_sequences/get_sequences/0.1.2	using REST API	ensembl_get_sequences	Get Data		
 Get gene tree by Ensembl ID		toolshed.g2.bx.psu.edu/repos/earlhaminst/ensembl_get_genetree/get_genetree/0.1.2	using REST API	ensembl_get_genetree	Get Data		
